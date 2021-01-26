@@ -21,7 +21,7 @@ programa
 		inteiro mesesEmDias = meses * 30
 		inteiro somaDeDias = anosEmDias + mesesEmDias + dias
 
-		escreva("\nO total de dias é igual a " + somaDeDias)
+		escreva("\nO total de dias eh igual a " + somaDeDias)
 		escreva("\nObrigado")
 		
 	}
@@ -31,7 +31,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 614; 
+ * @POSICAO-CURSOR = 554; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

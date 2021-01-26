@@ -1,6 +1,6 @@
 programa
 {
-	inclua biblioteca Matematica --> mat
+	inclua biblioteca Matematica --> mat
 	funcao inicio()
 	{
 		//Esse programa lê a quantidade de dias vividos por alguem e retorna uma conversão em anos, meses e dias
@@ -15,7 +15,7 @@ programa
 		inteiro diasVividos = restoPraMeses % 30
 		cadeia diasPraFechar = " dia(s)"
 
-		escreva("\nVocê viveu " + anos + " ano(s), " + meses + " mes(es) e " + diasVividos + diasPraFechar)
+		escreva("\nVoce viveu " + anos + " ano(s), " + meses + " mes(es) e " + diasVividos + diasPraFechar)
 		escreva("Parabens!")
 		
 	}
@@ -25,7 +25,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 369; 
+ * @POSICAO-CURSOR = 460; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

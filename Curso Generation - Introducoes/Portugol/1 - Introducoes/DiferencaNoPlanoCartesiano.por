@@ -17,8 +17,8 @@ programa
 		escreva("Por favor, insira o valor de y para B\n")
 		leia(y2)
 
-		real diffX = mat.potencia(x1 - x2, 2)
-		real diffY = mat.potencia(y1 - y2, 2)
+		real diffX = mat.potencia(x2 - x1, 2)
+		real diffY = mat.potencia(y2 - y1, 2)
 		real d = mat.raiz(diffX + diffY, 2)
 
 		escreva("\nA distancia entre A e B eh: " + mat.arredondar(d, 2))
@@ -30,7 +30,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 584; 
+ * @POSICAO-CURSOR = 544; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
