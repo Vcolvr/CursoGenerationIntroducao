@@ -7,7 +7,7 @@ programa
 		inteiro idade = 0
 		inteiro genero = 0
 		inteiro comportamento = 0
-		inteiro pessoas = 1
+		inteiro pessoas = 0
 		inteiro calmosGeral = 0
 		inteiro nervosasMulheres = 0
 		inteiro agressivosHomens = 0
@@ -49,6 +49,7 @@ programa
 		escreva("Dados coletados. \n" +
 		"O numero de pessoas calmas eh: " + calmosGeral + ".\n" +
 		"O numero de mulheres nervosas eh: " + nervosasMulheres + ".\n" +
+		"O numero de homens agressivos eh:" + agressivosHomens + ".\n" +
 		"O numeros de outros calmos eh: " + calmosOutros + ".\n" +
 		"O numero de pessoas maiores de 40 anos calmos eh: " + nervososQuarenta + ".\n" +
 		"O numero de menores de 18 anos calmos eh: " + calmosAdolescentes + ".\n" +
@@ -61,7 +62,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 542; 
+ * @POSICAO-CURSOR = 1482; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

@@ -24,7 +24,8 @@ programa
 			
 		}
 		limpa()
-		escreva("A quantidade de numeros pares eh: " + pares + "\nE a quantidade de numeros de impares eh: " + impares + "\nObrigado!")
+		escreva("A quantidade de numeros pares eh: " + pares + 
+		"\nE a quantidade de numeros de impares eh: "+ impares + "\nObrigado!")
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -32,7 +33,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 283; 
+ * @POSICAO-CURSOR = 114; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
